@@ -1,0 +1,2 @@
+# synthcorp-website.
+Company Website 
